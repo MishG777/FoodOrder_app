@@ -78,10 +78,10 @@
   },
   {
     "id": "m12",
-    "name": "Rainbow Susshi",
+    "name": "Falafel Wrap",
     "price": "8.99",
-    "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
-    "image": "images/rainbow-susshi.jpg"
+    "description": "Crispy falafels wrapped in a warm pita with lettuce, tomatoes, and a tahini sauce.",
+    "image": "images/falafel-wrap.jpg"
   },
 
   {
@@ -114,10 +114,10 @@
   },
   {
     "id": "m17",
-    "name": "Veggie Burger",
-    "price": "9.99",
-    "description": "A juicy veggie patty served on a whole grain bun with lettuce, tomato, and a tangy sauce.",
-    "image": "images/veggie-burger.jpg"
+    "name": "Lemon Cheesecake",
+    "price": "6.99",
+    "description": "A creamy cheesecake with a tangy lemon flavor, served on a crumbly biscuit base.",
+    "image": "images/lemon-cheesecake.jpg"
   },
   {
     "id": "m18",
@@ -135,10 +135,10 @@
   },
   {
     "id": "m20",
-    "name": "Sushi Roll Platter",
-    "price": "15.99",
-    "description": "An assortment of fresh sushi rolls including California, Spicy Tuna, and Eel Avocado.",
-    "image": "images/sushi-roll-platter.jpg"
+    "name": "Eggplant Parmesan",
+    "price": "11.99",
+    "description": "Layers of breaded eggplant, marinara sauce, and melted mozzarella and parmesan cheeses.",
+    "image": "images/eggplant-parmesan.jpg"
   },
   {
     "id": "m21",
@@ -163,10 +163,10 @@
   },
   {
     "id": "m24",
-    "name": "Pancake Stack",
-    "price": "8.99",
-    "description": "Fluffy pancakes stacked high, drizzled with maple syrup and topped with fresh berries.",
-    "image": "images/pancake-stack.jpg"
+    "name": "Mushroom Risotto",
+    "price": "13.99",
+    "description": "Creamy Arborio rice cooked with a medley of wild mushrooms and finished with parmesan.",
+    "image": "images/mushroom-risotto.jpg"
   },
   {
     "id": "m25",
@@ -195,33 +195,5 @@
     "price": "14.99",
     "description": "A creamy soup made from lobster stock, aromatic vegetables, and a touch of brandy.",
     "image": "images/lobster-bisque.jpg"
-  },
-  {
-    "id": "m29",
-    "name": "Mushroom Risotto",
-    "price": "13.99",
-    "description": "Creamy Arborio rice cooked with a medley of wild mushrooms and finished with parmesan.",
-    "image": "images/mushroom-risotto.jpg"
-  },
-  {
-    "id": "m30",
-    "name": "Eggplant Parmesan",
-    "price": "11.99",
-    "description": "Layers of breaded eggplant, marinara sauce, and melted mozzarella and parmesan cheeses.",
-    "image": "images/eggplant-parmesan.jpg"
-  },
-  {
-    "id": "m31",
-    "name": "Lemon Cheesecake",
-    "price": "6.99",
-    "description": "A creamy cheesecake with a tangy lemon flavor, served on a crumbly biscuit base.",
-    "image": "images/lemon-cheesecake.jpg"
-  },
-  {
-    "id": "m32",
-    "name": "Falafel Wrap",
-    "price": "8.99",
-    "description": "Crispy falafels wrapped in a warm pita with lettuce, tomatoes, and a tahini sauce.",
-    "image": "images/falafel-wrap.jpg"
   }
 ]

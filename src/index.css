@@ -10,7 +10,7 @@ body {
   font-family: "Josefin Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(#29251c, #2c2306);
+  background: linear-gradient(#443350, #493d14);
   color: #d9e2f1;
   min-height: 100vh;
 }
@@ -60,6 +60,7 @@ h1 {
 
 /*next section*/
 
+/*Meals.jsx*/
 #meals {
   width: 90%;
   max-width: 70rem;
@@ -71,6 +72,7 @@ h1 {
   gap: 1rem;
 }
 
+/*MealItem.jsx*/
 .meal-item {
   background-color: #1d1a16;
   border-radius: 1rem;
@@ -89,7 +91,7 @@ h1 {
 .meal-item img {
   width: 100%;
   height: 20rem;
-  object-fit: cover;
+  /*object-fit: cover;*/
 }
 
 .meal-item h3 {
