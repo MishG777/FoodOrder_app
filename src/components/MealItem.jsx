@@ -1,10 +1,11 @@
 import React from "react";
 import { formatedCurrency } from "../util/formatter.js";
+import Button from "./UI/Button.jsx";
 
 const MealItem = ({ meal }) => {
   return (
     <li className="meal-item">
-      <div>
+      <div className="artice">
         <img src={`http://localhost:3000/${meal.image}`} alt={meal.name} />
         <div>
           <h3>{meal.name}</h3>
@@ -15,7 +16,7 @@ const MealItem = ({ meal }) => {
         </div>
 
         <p className="meal-item-actions">
-          <button>add to Cart</button>
+          <Button>add to Cart</Button>
         </p>
       </div>
     </li>
